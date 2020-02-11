@@ -1,0 +1,7 @@
+D:\Trios College\CSharp\StringToInteger\StringToInteger\bin\Debug\StringToInteger.exe.config
+D:\Trios College\CSharp\StringToInteger\StringToInteger\bin\Debug\StringToInteger.exe
+D:\Trios College\CSharp\StringToInteger\StringToInteger\bin\Debug\StringToInteger.pdb
+D:\Trios College\CSharp\StringToInteger\StringToInteger\obj\Debug\StringToInteger.csprojAssemblyReference.cache
+D:\Trios College\CSharp\StringToInteger\StringToInteger\obj\Debug\StringToInteger.csproj.CoreCompileInputs.cache
+D:\Trios College\CSharp\StringToInteger\StringToInteger\obj\Debug\StringToInteger.exe
+D:\Trios College\CSharp\StringToInteger\StringToInteger\obj\Debug\StringToInteger.pdb

@@ -1,0 +1,74 @@
+﻿<Window x:Class="WpfApp1_RomsPizza.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1_RomsPizza"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="624.68" Width="876.837" VerticalAlignment="Bottom" Background="White">
+    <Grid Margin="56,60,50,9.6" HorizontalAlignment="Center" VerticalAlignment="Center" Height="528" Width="766">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="766"/>
+
+        </Grid.ColumnDefinitions>
+        <GroupBox x:Name="Size" Header="Size" HorizontalAlignment="Left" Height="230" Margin="26,156,0,0" VerticalAlignment="Top" Width="130" Background="White">
+            <StackPanel HorizontalAlignment="Left" Height="179" Margin="10,23,0,0" VerticalAlignment="Top" Width="100">
+                <RadioButton x:Name="sizeSmall" Content="Small" Margin="0,0,0,10" Checked="Rd_small_Checked"/>
+                <RadioButton x:Name="sizeMedium" Content="Medium" Margin="0,0,0,10" Checked="SizeMedium_Checked"/>
+                <RadioButton x:Name="sizeLarge" Content="Large" Checked="SizeLarge_Checked"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="Crust" Header="Crust" HorizontalAlignment="Left" Height="230" Margin="161,156,0,0" VerticalAlignment="Top" Width="130" Background="White">
+            <StackPanel HorizontalAlignment="Left" Height="179" Margin="10,23,0,0" VerticalAlignment="Top" Width="100">
+                <RadioButton x:Name="crustThin" Content="Thin" Margin="0,0,0,10" Checked="CrustThin_Checked"/>
+                <RadioButton x:Name="crustThick" Content="Thick" Margin="0,0,0,10" Checked="CrustThick_Checked"/>
+                <RadioButton x:Name="crustStuffed" Content="Stuffed" Checked="CrustStuffed_Checked"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="Toppings" Header="Toppings" HorizontalAlignment="Left" Height="230" Margin="296,156,0,0" VerticalAlignment="Top" Width="130" Background="White">
+            <StackPanel HorizontalAlignment="Left" Height="179" Margin="10,23,0,0" VerticalAlignment="Top" Width="100">
+                <CheckBox x:Name="topsOnion" Content="Onion" Margin="0,0,0,10" Checked="toppings_Checked" Unchecked="toppings_Checked"/>
+                <CheckBox x:Name="topsOlives" Content="Olives" Margin="0,0,0,10" Checked="toppings_Checked" Unchecked="toppings_Checked"/>
+                <CheckBox x:Name="topsSausage" Content="Sausage" Margin="0,0,0,10" Checked="toppings_Checked" Unchecked="toppings_Checked"/>
+                <CheckBox x:Name="topsPineapple" Content="Pineapple" Margin="0,0,0,10" Checked="toppings_Checked" Unchecked="toppings_Checked"/>
+                <CheckBox x:Name="topsGreenP" Content="Green Pepper" Margin="0,0,0,10" Checked="toppings_Checked" Unchecked="toppings_Checked"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="lbl_AddOns1" Header="Add-Ons" HorizontalAlignment="Left" Height="230" Margin="431,156,0,0" VerticalAlignment="Top" Width="130" Background="White">
+            <StackPanel HorizontalAlignment="Left" Height="179" Margin="10,23,0,0" VerticalAlignment="Top" Width="100">
+                <CheckBox x:Name="addCheese" Content="More Cheese" Margin="0,0,0,10" Checked="addOns_Checked" Unchecked="addOns_Checked"/>
+                <CheckBox x:Name="addSauce" Content="Sauce" Margin="0,0,0,10" Checked="addOns_Checked" Unchecked="addOns_Checked"/>
+                <CheckBox x:Name="addDrinks" Content="Drinks" Margin="0,0,0,10" Checked="addOns_Checked" Unchecked="addOns_Checked"/>
+                <CheckBox x:Name="addYogurt" Content="Yogurt" Margin="0,0,0,10" Checked="addOns_Checked" Unchecked="addOns_Checked"/>
+            </StackPanel>
+        </GroupBox>
+        <Label x:Name="lbl_title" Content="Rommer's Pizza (SAMOSA Style)" HorizontalAlignment="Left" Margin="176,29,0,0" VerticalAlignment="Top" FontFamily="Permanent Marker" FontSize="32" FontWeight="Bold" Height="78" Width="542"/>
+        <Button x:Name="btn_order" Content="Order" HorizontalAlignment="Left" Margin="575,412,0,0" VerticalAlignment="Top" Width="130" Height="33" Background="#FF42BE54" Click="btn_order_Click"/>
+        <Button x:Name="btn_reset" Content="Reset" HorizontalAlignment="Left" Margin="431,412,0,0" VerticalAlignment="Top" Width="130" Height="33"/>
+        <Image HorizontalAlignment="Left" Height="67" Margin="-59,473,-52,-12" VerticalAlignment="Top" Width="877" Stretch="UniformToFill" Source="https://image.shutterstock.com/image-photo/creative-layout-made-tomato-slice-260nw-1413961706.jpg"/>
+        <GroupBox x:Name="lbl_Bucket1" Header="Your Order" HorizontalAlignment="Left" Height="230" Margin="566,156,0,0" VerticalAlignment="Top" Width="145">
+            <Grid HorizontalAlignment="Left" Margin="0,10,-1.8,7.2" Width="135">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="lbl_yourOrder_amount" Content="Amount:" HorizontalAlignment="Left" Margin="0,19,0,0" VerticalAlignment="Top" Width="67"/>
+                <Label x:Name="amount" Content="$" HorizontalAlignment="Left" Margin="67,19,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="68"/>
+                <Label x:Name="lbl_yourOrder_addOns" Content="AddOns:" HorizontalAlignment="Left" Margin="0,45,0,0" VerticalAlignment="Top" Width="67"/>
+                <Label x:Name="lbl_addOns" Content="$" HorizontalAlignment="Left" Margin="67,45,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="68"/>
+                <Label x:Name="lbl_yourOrder_subTotal" Content="Sub-Total:" HorizontalAlignment="Left" Margin="0,104,0,0" VerticalAlignment="Top" Width="67"/>
+                <Label x:Name="lbl_subTotal" Content="$" HorizontalAlignment="Left" Margin="67,104,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="68"/>
+                <Label x:Name="lbl_yourOrder_Tax_" Content="Tax:" HorizontalAlignment="Left" Margin="0,131,0,0" VerticalAlignment="Top" Width="67"/>
+                <Label x:Name="lbl_tax" Content="$" HorizontalAlignment="Left" Margin="67,131,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="68"/>
+                <Label x:Name="lbl_yourOrder_Total" Content="Total:" HorizontalAlignment="Left" Margin="0,160,0,0" VerticalAlignment="Top" Width="67"/>
+                <Label x:Name="lbl_total" Content="$" HorizontalAlignment="Left" Margin="67,160,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="68"/>
+            </Grid>
+        </GroupBox>
+        <Image x:Name="img_logo" HorizontalAlignment="Left" Height="104" Margin="31,10,0,0" VerticalAlignment="Top" Width="125" Stretch="None">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="https://images.vexels.com/media/users/3/157209/isolated/preview/725aa2473489db2e550656210c557f18-cheesy-pizza-icon-by-vexels.png"/>
+            </Image.OpacityMask>
+        </Image>
+
+    </Grid>
+</Window>

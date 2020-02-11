@@ -1,0 +1,5 @@
+D:\Trios College\CSharp\Switch_Sample\Switch_Sample\bin\Debug\Switch_Sample.exe.config
+D:\Trios College\CSharp\Switch_Sample\Switch_Sample\bin\Debug\Switch_Sample.exe
+D:\Trios College\CSharp\Switch_Sample\Switch_Sample\bin\Debug\Switch_Sample.pdb
+D:\Trios College\CSharp\Switch_Sample\Switch_Sample\obj\Debug\Switch_Sample.exe
+D:\Trios College\CSharp\Switch_Sample\Switch_Sample\obj\Debug\Switch_Sample.pdb

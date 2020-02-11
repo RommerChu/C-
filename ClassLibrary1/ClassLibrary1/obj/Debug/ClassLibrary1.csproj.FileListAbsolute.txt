@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Trios College\CSharp\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Trios College\CSharp\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\Trios College\CSharp\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Trios College\CSharp\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Trios College\CSharp\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

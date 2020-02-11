@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\Switch\Switch\bin\Debug\Switch.exe.config
+D:\Trios College\CSharp\Switch\Switch\bin\Debug\Switch.exe
+D:\Trios College\CSharp\Switch\Switch\bin\Debug\Switch.pdb
+D:\Trios College\CSharp\Switch\Switch\obj\Debug\Switch.csprojAssemblyReference.cache
+D:\Trios College\CSharp\Switch\Switch\obj\Debug\Switch.exe
+D:\Trios College\CSharp\Switch\Switch\obj\Debug\Switch.pdb

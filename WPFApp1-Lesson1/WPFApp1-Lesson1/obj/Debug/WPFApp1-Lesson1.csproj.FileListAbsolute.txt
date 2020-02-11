@@ -1,0 +1,14 @@
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\bin\Debug\WPFApp1-Lesson1.exe.config
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\bin\Debug\WPFApp1-Lesson1.exe
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\bin\Debug\WPFApp1-Lesson1.pdb
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1-Lesson1.csprojAssemblyReference.cache
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\MainWindow.g.cs
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\App.g.cs
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1-Lesson1_MarkupCompile.cache
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1-Lesson1_MarkupCompile.lref
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\MainWindow.baml
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1-Lesson1.g.resources
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1_Lesson1.Properties.Resources.resources
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1-Lesson1.csproj.GenerateResource.cache
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1-Lesson1.exe
+D:\Trios College\CSharp\WPFApp1-Lesson1\WPFApp1-Lesson1\obj\Debug\WPFApp1-Lesson1.pdb

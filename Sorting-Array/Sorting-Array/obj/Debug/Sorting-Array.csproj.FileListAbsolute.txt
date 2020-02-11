@@ -1,0 +1,7 @@
+D:\Trios College\CSharp\Sorting-Array\Sorting-Array\bin\Debug\Sorting-Array.exe.config
+D:\Trios College\CSharp\Sorting-Array\Sorting-Array\bin\Debug\Sorting-Array.exe
+D:\Trios College\CSharp\Sorting-Array\Sorting-Array\bin\Debug\Sorting-Array.pdb
+D:\Trios College\CSharp\Sorting-Array\Sorting-Array\obj\Debug\Sorting-Array.exe
+D:\Trios College\CSharp\Sorting-Array\Sorting-Array\obj\Debug\Sorting-Array.pdb
+D:\Trios College\CSharp\Sorting-Array\Sorting-Array\obj\Debug\Sorting-Array.csprojAssemblyReference.cache
+D:\Trios College\CSharp\Sorting-Array\Sorting-Array\obj\Debug\Sorting-Array.csproj.CoreCompileInputs.cache

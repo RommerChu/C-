@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\STRING-Comparison\STRING-Comparison\bin\Debug\STRING-Comparison.exe.config
+D:\Trios College\CSharp\STRING-Comparison\STRING-Comparison\bin\Debug\STRING-Comparison.exe
+D:\Trios College\CSharp\STRING-Comparison\STRING-Comparison\bin\Debug\STRING-Comparison.pdb
+D:\Trios College\CSharp\STRING-Comparison\STRING-Comparison\obj\Debug\STRING-Comparison.csprojAssemblyReference.cache
+D:\Trios College\CSharp\STRING-Comparison\STRING-Comparison\obj\Debug\STRING-Comparison.exe
+D:\Trios College\CSharp\STRING-Comparison\STRING-Comparison\obj\Debug\STRING-Comparison.pdb

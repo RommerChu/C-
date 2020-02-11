@@ -1,0 +1,9 @@
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\bin\Debug\WebForm-FirstName-LastName.exe.config
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\bin\Debug\WebForm-FirstName-LastName.exe
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\bin\Debug\WebForm-FirstName-LastName.pdb
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\obj\Debug\WebForm-FirstName-LastName.csprojAssemblyReference.cache
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\obj\Debug\WebForm_FirstName_LastName.Form1.resources
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\obj\Debug\WebForm_FirstName_LastName.Properties.Resources.resources
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\obj\Debug\WebForm-FirstName-LastName.csproj.GenerateResource.cache
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\obj\Debug\WebForm-FirstName-LastName.exe
+D:\Trios College\CSharp\WebForm-FirstName-LastName\WebForm-FirstName-LastName\obj\Debug\WebForm-FirstName-LastName.pdb

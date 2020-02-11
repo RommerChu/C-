@@ -1,0 +1,7 @@
+D:\Trios College\CSharp\PrintArray\PrintArray\bin\Debug\PrintArray.exe.config
+D:\Trios College\CSharp\PrintArray\PrintArray\bin\Debug\PrintArray.exe
+D:\Trios College\CSharp\PrintArray\PrintArray\bin\Debug\PrintArray.pdb
+D:\Trios College\CSharp\PrintArray\PrintArray\obj\Debug\PrintArray.csprojAssemblyReference.cache
+D:\Trios College\CSharp\PrintArray\PrintArray\obj\Debug\PrintArray.exe
+D:\Trios College\CSharp\PrintArray\PrintArray\obj\Debug\PrintArray.pdb
+D:\Trios College\CSharp\PrintArray\PrintArray\obj\Debug\PrintArray.csproj.CoreCompileInputs.cache

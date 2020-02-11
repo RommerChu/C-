@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\Foreach-Print-Row\Foreach-Print-Row\bin\Debug\Foreach-Print-Row.exe.config
+D:\Trios College\CSharp\Foreach-Print-Row\Foreach-Print-Row\bin\Debug\Foreach-Print-Row.exe
+D:\Trios College\CSharp\Foreach-Print-Row\Foreach-Print-Row\bin\Debug\Foreach-Print-Row.pdb
+D:\Trios College\CSharp\Foreach-Print-Row\Foreach-Print-Row\obj\Debug\Foreach-Print-Row.csprojAssemblyReference.cache
+D:\Trios College\CSharp\Foreach-Print-Row\Foreach-Print-Row\obj\Debug\Foreach-Print-Row.exe
+D:\Trios College\CSharp\Foreach-Print-Row\Foreach-Print-Row\obj\Debug\Foreach-Print-Row.pdb

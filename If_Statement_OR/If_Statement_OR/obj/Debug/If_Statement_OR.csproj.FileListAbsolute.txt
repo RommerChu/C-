@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\If_Statement_OR\If_Statement_OR\bin\Debug\If_Statement_OR.exe.config
+D:\Trios College\CSharp\If_Statement_OR\If_Statement_OR\bin\Debug\If_Statement_OR.exe
+D:\Trios College\CSharp\If_Statement_OR\If_Statement_OR\bin\Debug\If_Statement_OR.pdb
+D:\Trios College\CSharp\If_Statement_OR\If_Statement_OR\obj\Debug\If_Statement_OR.csproj.CoreCompileInputs.cache
+D:\Trios College\CSharp\If_Statement_OR\If_Statement_OR\obj\Debug\If_Statement_OR.exe
+D:\Trios College\CSharp\If_Statement_OR\If_Statement_OR\obj\Debug\If_Statement_OR.pdb

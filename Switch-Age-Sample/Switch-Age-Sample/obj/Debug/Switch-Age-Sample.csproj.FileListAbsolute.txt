@@ -1,0 +1,5 @@
+D:\Trios College\CSharp\Switch-Age-Sample\Switch-Age-Sample\bin\Debug\Switch-Age-Sample.exe.config
+D:\Trios College\CSharp\Switch-Age-Sample\Switch-Age-Sample\bin\Debug\Switch-Age-Sample.exe
+D:\Trios College\CSharp\Switch-Age-Sample\Switch-Age-Sample\bin\Debug\Switch-Age-Sample.pdb
+D:\Trios College\CSharp\Switch-Age-Sample\Switch-Age-Sample\obj\Debug\Switch-Age-Sample.exe
+D:\Trios College\CSharp\Switch-Age-Sample\Switch-Age-Sample\obj\Debug\Switch-Age-Sample.pdb

@@ -1,0 +1,5 @@
+D:\Trios College\CSharp\LOOP-For-Each\LOOP-For-Each\bin\Debug\LOOP-For-Each.exe.config
+D:\Trios College\CSharp\LOOP-For-Each\LOOP-For-Each\bin\Debug\LOOP-For-Each.exe
+D:\Trios College\CSharp\LOOP-For-Each\LOOP-For-Each\bin\Debug\LOOP-For-Each.pdb
+D:\Trios College\CSharp\LOOP-For-Each\LOOP-For-Each\obj\Debug\LOOP-For-Each.exe
+D:\Trios College\CSharp\LOOP-For-Each\LOOP-For-Each\obj\Debug\LOOP-For-Each.pdb

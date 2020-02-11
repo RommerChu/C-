@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\Loops-While\Loops-While\bin\Debug\Loops-While.exe.config
+D:\Trios College\CSharp\Loops-While\Loops-While\bin\Debug\Loops-While.exe
+D:\Trios College\CSharp\Loops-While\Loops-While\bin\Debug\Loops-While.pdb
+D:\Trios College\CSharp\Loops-While\Loops-While\obj\Debug\Loops-While.csprojAssemblyReference.cache
+D:\Trios College\CSharp\Loops-While\Loops-While\obj\Debug\Loops-While.exe
+D:\Trios College\CSharp\Loops-While\Loops-While\obj\Debug\Loops-While.pdb

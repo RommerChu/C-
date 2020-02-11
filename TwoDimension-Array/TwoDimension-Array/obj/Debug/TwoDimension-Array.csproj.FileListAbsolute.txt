@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\TwoDimension-Array\TwoDimension-Array\bin\Debug\TwoDimension-Array.exe.config
+D:\Trios College\CSharp\TwoDimension-Array\TwoDimension-Array\bin\Debug\TwoDimension-Array.exe
+D:\Trios College\CSharp\TwoDimension-Array\TwoDimension-Array\bin\Debug\TwoDimension-Array.pdb
+D:\Trios College\CSharp\TwoDimension-Array\TwoDimension-Array\obj\Debug\TwoDimension-Array.csprojAssemblyReference.cache
+D:\Trios College\CSharp\TwoDimension-Array\TwoDimension-Array\obj\Debug\TwoDimension-Array.exe
+D:\Trios College\CSharp\TwoDimension-Array\TwoDimension-Array\obj\Debug\TwoDimension-Array.pdb

@@ -1,0 +1,9 @@
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\bin\Debug\WindowsFormsApp2-Fields.exe.config
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\bin\Debug\WindowsFormsApp2-Fields.exe
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\bin\Debug\WindowsFormsApp2-Fields.pdb
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\obj\Debug\WindowsFormsApp2-Fields.csprojAssemblyReference.cache
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\obj\Debug\WindowsFormsApp2_Fields.Form1.resources
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\obj\Debug\WindowsFormsApp2_Fields.Properties.Resources.resources
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\obj\Debug\WindowsFormsApp2-Fields.csproj.GenerateResource.cache
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\obj\Debug\WindowsFormsApp2-Fields.exe
+D:\Trios College\CSharp\WindowsFormsApp2-Fields\WindowsFormsApp2-Fields\obj\Debug\WindowsFormsApp2-Fields.pdb

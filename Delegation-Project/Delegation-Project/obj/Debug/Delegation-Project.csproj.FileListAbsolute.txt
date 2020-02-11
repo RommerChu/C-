@@ -1,0 +1,11 @@
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation_Project.Form1.resources
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation_Project.Properties.Resources.resources
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation-Project.csproj.GenerateResource.cache
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\bin\Debug\Delegation-Project.exe.config
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\bin\Debug\Delegation-Project.exe
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\bin\Debug\Delegation-Project.pdb
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation-Project.exe
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation-Project.pdb
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation_Project.Name.resources
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation_Project.Sports.resources
+D:\Trios College\CSharp\Delegation-Project\Delegation-Project\obj\Debug\Delegation-Project.csprojAssemblyReference.cache

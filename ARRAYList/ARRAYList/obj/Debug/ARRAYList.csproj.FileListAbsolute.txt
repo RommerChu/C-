@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\ARRAYList\ARRAYList\bin\Debug\ARRAYList.exe.config
+D:\Trios College\CSharp\ARRAYList\ARRAYList\bin\Debug\ARRAYList.exe
+D:\Trios College\CSharp\ARRAYList\ARRAYList\bin\Debug\ARRAYList.pdb
+D:\Trios College\CSharp\ARRAYList\ARRAYList\obj\Debug\ARRAYList.csprojAssemblyReference.cache
+D:\Trios College\CSharp\ARRAYList\ARRAYList\obj\Debug\ARRAYList.exe
+D:\Trios College\CSharp\ARRAYList\ARRAYList\obj\Debug\ARRAYList.pdb

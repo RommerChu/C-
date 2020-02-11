@@ -1,0 +1,7 @@
+D:\Trios College\CSharp\TryParse\TryParse\bin\Debug\TryParse.exe.config
+D:\Trios College\CSharp\TryParse\TryParse\bin\Debug\TryParse.exe
+D:\Trios College\CSharp\TryParse\TryParse\bin\Debug\TryParse.pdb
+D:\Trios College\CSharp\TryParse\TryParse\obj\Debug\TryParse.csprojAssemblyReference.cache
+D:\Trios College\CSharp\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+D:\Trios College\CSharp\TryParse\TryParse\obj\Debug\TryParse.exe
+D:\Trios College\CSharp\TryParse\TryParse\obj\Debug\TryParse.pdb

@@ -1,0 +1,6 @@
+D:\Trios College\CSharp\Concatenating-and-Formatting\Concatenating-and-Formatting\bin\Debug\Concatenating-and-Formatting.exe.config
+D:\Trios College\CSharp\Concatenating-and-Formatting\Concatenating-and-Formatting\bin\Debug\Concatenating-and-Formatting.exe
+D:\Trios College\CSharp\Concatenating-and-Formatting\Concatenating-and-Formatting\bin\Debug\Concatenating-and-Formatting.pdb
+D:\Trios College\CSharp\Concatenating-and-Formatting\Concatenating-and-Formatting\obj\Debug\Concatenating-and-Formatting.csprojAssemblyReference.cache
+D:\Trios College\CSharp\Concatenating-and-Formatting\Concatenating-and-Formatting\obj\Debug\Concatenating-and-Formatting.exe
+D:\Trios College\CSharp\Concatenating-and-Formatting\Concatenating-and-Formatting\obj\Debug\Concatenating-and-Formatting.pdb
